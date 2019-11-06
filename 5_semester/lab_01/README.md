@@ -18,7 +18,7 @@
 
 P.S.: адреса зависят от разрядности системы, поэтому могут отличаться
 
-![help](https://github.com/Winterpuma/bmstu_OS/blob/master/lab_01/part1/howto.png?raw=true)
+![help](https://github.com/Winterpuma/bmstu_OS/blob/master/5_semester/lab_01/part1/howto.png)
 
 ### Отчет
 * дизассемблированный код обработки прерывания от системного таймера (получаете утилитой sourcer)
